@@ -1,0 +1,8 @@
+________________Indigo Airline__________________
+______________Ticket______________
+________________________________________________
+Customer ID-12
+Customer name-princi
+Customer gender-female
+	Description
+
